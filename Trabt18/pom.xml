@@ -4,13 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-<<<<<<< HEAD
-    <groupId>com.github.alinenunes21.poo_2023_01.t17</groupId>
-    <artifactId>T17</artifactId>
-=======
-    <groupId>com.github.alinenunes21.poo_2023_01.t10</groupId>
-    <artifactId>trabalhot10</artifactId>
->>>>>>> db5842c22f12c11f3ce9d73ed28f29cc5168a85b
+    <groupId>com.github.alinenunes21.poo_2023_01.Trabt18</groupId>
+    <artifactId>Trabt18</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
