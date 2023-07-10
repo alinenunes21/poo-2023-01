@@ -6,10 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-HEAD
-        <module name="trabalhot10" />
-        <module name="T17" />
- 72d7ef68d779411c74e0f8e80bb0ef3f4a1a1824
+        <module name="trabt08" />
       </profile>
     </annotationProcessing>
   </component>
